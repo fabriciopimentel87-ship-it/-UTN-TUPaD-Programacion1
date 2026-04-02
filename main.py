@@ -1,4 +1,4 @@
-print("HOLA MUNDO")
+print("hola mundo")
 
 nombre = input("Bienvenido/a, ingrese su nombre: ")
 
